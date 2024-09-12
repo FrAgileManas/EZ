@@ -1,7 +1,0 @@
-{
-    "style": "formal",  // options: "formal", "technical", "casual", "research"
-    "title": "Sample Title",
-    "instructions": "This is a placeholder for a very long string that contains detailed instructions. It can span multiple sentences or paragraphs depending on the requirements.",
-    "word_count": 1000
-  }
-  
